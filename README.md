@@ -1,0 +1,2 @@
+# fajrinfo.com
+JAvascript
